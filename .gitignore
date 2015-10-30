@@ -194,3 +194,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+OSMPoC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.suo
+.vs/config/applicationhost.config
