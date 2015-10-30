@@ -197,3 +197,8 @@ FakesAssemblies/
 OSMPoC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.suo
 .vs/config/applicationhost.config
+*.suo
+*.cache
+*.suo
+.vs/OSMPoC/v14/.suo
+*.cache
